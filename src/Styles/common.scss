@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+KR&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  height: 100vh;
+  font-family: ‘Noto Sans KR’, sans-serif, ’dotum’, ’돋움’,
+    ’Apple SD Gothic Neo’;
+}
+
+.instagramFont {
+  font-family: "Lobster", cursive;
+}
+
+input {
+  outline: unset;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background-color: unset;
+  padding: 0;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.bold_700 {
+  font-weight: 700;
+}
